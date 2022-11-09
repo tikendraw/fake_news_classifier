@@ -1,0 +1,3 @@
+[submodule "funcyou"]
+	path = funcyou
+	url = git@github.com:tikendraw/funcyou.git
