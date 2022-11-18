@@ -1,6 +1,6 @@
 
 # FAKE NEWS CLASSIFIER : Build a system to identify unreliable news articles
-Aim is to Develop a machine learning program to identify when an article might be fake news. Run by the UTK Machine Learning Club.
+Aim is to Develop a machine learning program to identify when an article might be fake news.
 
 
 
