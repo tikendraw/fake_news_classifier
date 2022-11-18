@@ -65,7 +65,7 @@ st.write(
 st.image("./model_results1.png")
 
 st.write(
-    """**Note:** Incase our model mistakes to classify your article. It is probabily 
+    """**Note:** Incase our model mistakes to classify your article. It is probably 
 			\n1. The data may have been outdated
 			\n2. Article contains alot of the words that our model hasn't been trained on """
 )
