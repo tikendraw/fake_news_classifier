@@ -49,6 +49,11 @@ def text_cleaning(text):
 
 
 
+def clean(x):
+    x = text_cleaning_apos(str(x))
+    x = cont_to_exp(x)
+    x = text_cleaning(x)
+    return x
 
 
 
